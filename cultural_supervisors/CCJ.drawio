@@ -1,9 +1,97 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="Page-1" id="A7jx_pm2UxjrqiNdRTtl">
-    <mxGraphModel>
+    <mxGraphModel dx="2559" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hi5KZuUf_OKcMdpLAVnY-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;MINISTRE&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="300" y="70" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hi5KZuUf_OKcMdpLAVnY-7" value="CMAI" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="140" y="180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hi5KZuUf_OKcMdpLAVnY-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=1;fontSize=15;fontStyle=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hi5KZuUf_OKcMdpLAVnY-27" target="hi5KZuUf_OKcMdpLAVnY-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="480" as="sourcePoint" />
+            <mxPoint x="310" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hi5KZuUf_OKcMdpLAVnY-9" value="" style="endArrow=none;html=1;rounded=0;exitX=1.002;exitY=0.652;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1;fontSize=15;fontStyle=1" edge="1" parent="1" source="hi5KZuUf_OKcMdpLAVnY-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="300" as="sourcePoint" />
+            <mxPoint x="400" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hi5KZuUf_OKcMdpLAVnY-11" value="CMSIC" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="560" y="142" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hi5KZuUf_OKcMdpLAVnY-12" value="C/PIP" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="560" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hi5KZuUf_OKcMdpLAVnY-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.003;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.003;exitY=0.664;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1;fontSize=15;fontStyle=1" edge="1" parent="1" source="hi5KZuUf_OKcMdpLAVnY-12" target="hi5KZuUf_OKcMdpLAVnY-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="220" as="sourcePoint" />
+            <mxPoint x="510" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="260" />
+              <mxPoint x="520" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hi5KZuUf_OKcMdpLAVnY-14" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=1;fontSize=15;fontStyle=1" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="200" as="sourcePoint" />
+            <mxPoint x="520" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hi5KZuUf_OKcMdpLAVnY-15" value="Inspection générale du ministère" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry y="240" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hi5KZuUf_OKcMdpLAVnY-16" value="Cellule de contrôle des MP" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="30" y="310" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hi5KZuUf_OKcMdpLAVnY-17" value="Personne responsable des MP" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="30" y="400" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hi5KZuUf_OKcMdpLAVnY-18" value="Secrétariat particulier" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="520" y="310" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hi5KZuUf_OKcMdpLAVnY-19" value="Assistant du ministre" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hi5KZuUf_OKcMdpLAVnY-20" value="Garde du corps" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="520" y="410" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hi5KZuUf_OKcMdpLAVnY-21" value="" style="endArrow=none;html=1;rounded=0;exitX=1.003;exitY=0.337;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1;fontSize=15;fontStyle=1" edge="1" parent="1" source="hi5KZuUf_OKcMdpLAVnY-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="240" as="sourcePoint" />
+            <mxPoint x="401" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hi5KZuUf_OKcMdpLAVnY-22" value="" style="endArrow=none;html=1;rounded=0;exitX=1.007;exitY=0.628;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=1;fontSize=15;fontStyle=1" edge="1" parent="1" source="hi5KZuUf_OKcMdpLAVnY-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="324.64" as="sourcePoint" />
+            <mxPoint x="400" y="349" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hi5KZuUf_OKcMdpLAVnY-23" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;fontSize=15;fontStyle=1" edge="1" parent="1" source="hi5KZuUf_OKcMdpLAVnY-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="272" y="351" as="sourcePoint" />
+            <mxPoint x="400" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hi5KZuUf_OKcMdpLAVnY-27" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="240" width="45" height="662.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hi5KZuUf_OKcMdpLAVnY-28" value="DC" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-20" y="584" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hi5KZuUf_OKcMdpLAVnY-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="59" y="680" as="sourcePoint" />
+            <mxPoint x="60" y="625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
